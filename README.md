@@ -35,7 +35,7 @@ salida:
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
 | el nombre del empleado es ioannes melgarejo torres                            |
-| el frc del empleado es 1234567                                                |
+| el RFC del empleado es 1234567                                                |
 |el curp del empleado es meti040701hpllrna8                                     |
 |el correo electronico del empleado es ioannes107@gmail.com                     |
 |el salario neto del empleado ioannes ixca melgarejo torres es 100              |
