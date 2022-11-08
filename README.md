@@ -48,3 +48,5 @@ salida:
 ## Etapa 3:
 
 ![](https://github.com/ThisIsMaik/T3A6/blob/main/T3A6.png?raw=true)
+
+## Etapa 4. Desarrollo de la solucion
