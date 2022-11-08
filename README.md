@@ -8,7 +8,7 @@ Además del sueldo base se debe agregar un bono por antigüedad bajo las siguien
 De 0 a 2 años de antigüedad no se asigna bono. de 3 a 5 años de antigüedad se asigna un bono del 3% y si el trabajador es administrativo entonces el bono será del 4%. De 6 a 10 años de antigüedad recibe un bono adicional del 8% y si el trabajador es administrativo, entonces el bono será del 12%. Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguiente imagen: 
 
 
-https://www.nominapro.mx/wp-content/uploads/2020/02/Ejemplo-de-Como-Calcular-el-ISR.png
+![](https://www.nominapro.mx/wp-content/uploads/2020/02/Ejemplo-de-Como-Calcular-el-ISR.png)
 
 
 
