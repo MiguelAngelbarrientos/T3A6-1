@@ -34,11 +34,11 @@ salida:
 ~~~
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
-| el nombre del empleado es ioannes melgarejo torres                            |
+| el nombre del empleado es Miguel ángel andrés                                 |
 | el RFC del empleado es 1234567                                                |
-|el curp del empleado es meti040701hpllrna8                                     |
-|el correo electronico del empleado es ioannes107@gmail.com                     |
-|el salario neto del empleado ioannes ixca melgarejo torres es 100              |
+|el curp del empleado es:                                                       |
+|el correo electronico del empleado es comoalcatelc794@gmail.com                |
+|el salario neto del empleado Miguel Ángel Andrés es 100                        |
 |la nomina de todos los empleados es de 1000                                    |
 |                                                                               |
 |                                                                               |
